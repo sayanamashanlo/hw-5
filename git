@@ -1,4 +1,4 @@
-git init
+pipgit init
 git remote add origin link
 
 create .gitignore
